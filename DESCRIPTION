@@ -1,6 +1,6 @@
 Package: dmRTools
-Version: 1.0.1
-Date: 2011-8-10
+Version: 1.1.1
+Date: 2011-11-7
 Title: Data Management Reporting Tool Version 1.0.1
 Author@R: c(person("Zekai", "Otles",email =
         "otles@fstrf-wi.org"),role="aut", person("Pascal", "Groenen",
@@ -20,6 +20,6 @@ License: GPL (>= 2)
 http: //dmrtools.r-forge.r-project.org/
 Repository: CRAN
 Repository/R-Forge/Project: dmrtools
-Repository/R-Forge/Revision: 26
-Date/Publication: 2011-11-02 17:25:46
-Packaged: 2011-10-29 21:01:27 UTC; rforge
+Repository/R-Forge/Revision: 29
+Date/Publication: 2011-11-08 17:35:06
+Packaged: 2011-11-07 22:04:30 UTC; rforge
